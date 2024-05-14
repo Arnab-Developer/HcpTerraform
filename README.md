@@ -11,4 +11,4 @@ HCP and the actual resource creation into the cloud happens from the HCP.
     <img src="https://github.com/Arnab-Developer/HcpTerraform/blob/main/assets/hcp.png?raw=true" />
 </div>
 
-The full form of HCP is `Hashicorp Cloud Platform`.
+The full form of HCP is [Hashicorp Cloud Platform](https://developer.hashicorp.com/terraform/cloud-docs).
