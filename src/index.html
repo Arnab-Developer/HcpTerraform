@@ -1,0 +1,26 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Static App 1</title>
+    <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.7.1.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $("#btnHello").click(function () {
+                var name = $("#txtName").val();
+
+                if (name.trim() === "") {
+                    $("#dvName").text("Please enter your name");
+                    return;
+                }
+
+                $("#dvName").text("Hello " + name);
+            });
+        });
+    </script>
+</head>
+<body>
+    <div>This is a static app</div>
+    <input id="txtName" type="text" />
+    <button id="btnHello">Hello</button>
+    <div id="dvName"></div>
+</body>
+</html>
