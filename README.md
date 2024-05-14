@@ -3,7 +3,7 @@
 [HCP](https://app.terraform.io/) demo with terraform. In this demo I have hosted a 
 static web page in azure blob with terraform.
 
-> :info:
+> [!NOTE]
 > The full form of HCP is `Hashicorp Cloud Platform`.
 
 If you do not use HCP then terraform directly creates resources into the cloud from your 
