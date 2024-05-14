@@ -11,5 +11,5 @@ CI/CD. But if you use HCP then terraform just triggers the process from your CI/
 HCP and the actual resource creation into the cloud happens from the HCP.
 
 <div align="center">
-    <img src="" />
+    <img src="https://github.com/Arnab-Developer/HcpTerraform/blob/main/assets/hcp.png?raw=true" />
 </div>
