@@ -7,8 +7,6 @@ If you do not use HCP then terraform directly creates resources into the cloud f
 CI/CD. But if you use HCP then terraform just triggers the process from your CI/CD to the 
 HCP and the actual resource creation into the cloud happens from the HCP.
 
-<div align="center">
-    <img src="https://github.com/Arnab-Developer/HcpTerraform/blob/main/assets/hcp.png?raw=true" />
-</div>
+![HCP](assets/hcp.png)
 
 The full form of HCP is [Hashicorp Cloud Platform](https://developer.hashicorp.com/terraform/cloud-docs).
